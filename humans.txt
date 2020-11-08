@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrzej D andrzejdackiewicz@gmail.com
 
 # THANKS
 

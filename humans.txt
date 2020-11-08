@@ -7,7 +7,8 @@
 
 # THANKS
 
-    <name>
+    Thanks to Google and Stack overflow, without You I probably would not be such an amazing developer!!!
+    Also big thank You to MYSELF for being patient...
 
 # TECHNOLOGY COLOPHON
 
